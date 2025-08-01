@@ -2,7 +2,6 @@
 ### "Marauder’s Map for DAIICT"  
 **Student Name:** Ismail Mansuri  
 **Course:** Shell Scripting and Linux Basics   
-**Semester:** Autumn 2024–25  
 
 ---
 
