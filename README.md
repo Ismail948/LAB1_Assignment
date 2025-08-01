@@ -1,8 +1,7 @@
 # Lab 1 – Shell Scripting Assignment  
 ### "Marauder’s Map for DAIICT"  
 **Student Name:** Ismail Mansuri  
-**Course:** Shell Scripting and Linux Basics  
-**Instructor:** [Your Instructor’s Name, if needed]  
+**Course:** Shell Scripting and Linux Basics   
 **Semester:** Autumn 2024–25  
 
 ---
